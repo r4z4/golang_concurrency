@@ -1,0 +1,10 @@
+directory = '.'
+default_version = ''
+comment = 'pg_vector manual'
+encoding = 'utf8'
+module_pathname = '$libdir/shared_library_name'
+requires = ''
+superuser = false
+trusted = true
+relocatable = false
+schema = ''
